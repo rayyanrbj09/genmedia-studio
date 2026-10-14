@@ -6,6 +6,12 @@ GenMedia Studio transforms a creative brief into a broadcast-ready MP4 advertise
 
 ---
 
+## 🎥 Demo Video
+
+[![Watch GenMedia Studio Demo](https://img.youtube.com/vi/CphJn5l_OqA/maxresdefault.jpg)](https://www.youtube.com/watch?v=CphJn5l_OqA)
+
+_Click the thumbnail above to watch the full demo on YouTube._
+
 ## 1. Verified Required Google AI Models (Milestone 1 Report)
 
 All three required models from the official hackathon brief were verified against the live API using the provided hackathon credentials (`scripts/verify_models.ts` and `scripts/run_e2e_pipeline_test.ts`):
